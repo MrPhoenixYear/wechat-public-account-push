@@ -30,7 +30,7 @@ export const config = {
     // 金山每日一句
     CIBA: true,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
     earthyLoveWords: false,
     // 朋友圈文案
@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "yh星辰大海",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o74V76DwEpt_bzFk-qRWrpQTVs6A",
+      id: "",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "yUZSwIJO6EfoyHWP0jvJqv4XVr21lr2dbPuWLicLFYA",
       // 所在省份
