@@ -32,13 +32,13 @@ export const config = {
     // 每日一言
     oneTalk: true,
     // 土味情话(彩虹屁)
-    earthyLoveWords: false,
+    earthyLoveWords: true,
     // 朋友圈文案
-    momentCopyrighting: false,
+    momentCopyrighting: true,
     // 毒鸡汤
-    poisonChickenSoup: false,
+    poisonChickenSoup: true,
     // 古诗古文
-    poetry: false,
+    poetry: true,
 
     /** 星座运势 */
     horoscope: false,
@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "yh星辰大海",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o74V76DwEpt_bzFk-qRWrpQTVs6A",
+      id: "",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "yUZSwIJO6EfoyHWP0jvJqv4XVr21lr2dbPuWLicLFYA",
       // 所在省份
